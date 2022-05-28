@@ -8,4 +8,4 @@
 - Duração do projeto: aproximadamente 4 horas
 - Complexidade: Simples
 - Quantidade de Pessoas no Projeto: 1
-- 
+
